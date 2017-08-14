@@ -1,0 +1,5 @@
+# The following video describes the correct way to install the OpenCV
+# DON'T install opencv using terminal by pip package manager. There are some functions that
+are not implemented on the non official installation.
+
+https://www.youtube.com/watch?v=RJkM_iI_WqE
